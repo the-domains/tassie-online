@@ -4,8 +4,15 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 12:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 12:16:36 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ET]]></title>
+            <description><![CDATA[<article><h1>ET</h1><p>Tasmania is like nowhere else on earth. But it is in grave danger from years of excessive logging, mining and over-fishing. Join our community to stop this destruction and connect with giant underwater kelp forests, majestic wedge-tailed eagles, pristine beaches and World Heritage listed rainforests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8be854e639807e2152917dd91df9dade180b7e45.jpg"></article>]]></description>
+            <link>http://www.et.org.au/</link>
+            <guid isPermaLink="false">d3581c64-06d5-48e4-a24f-ebfbd831e671</guid>
+            <pubDate>Wed, 09 Mar 2016 12:14:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Wilderness Society]]></title>
             <description><![CDATA[<article><h1>The Wilderness Society</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afa08a505e24478fe2e0c7405adf2cdaa3a5e9bf.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://brunyislandcider.com.au/</link>
             <guid isPermaLink="false">ca2975e9-7d20-4bb2-b9bb-b9c51ddb7f3e</guid>
             <pubDate>Wed, 09 Mar 2016 11:41:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to Me Wah Restaurant]]></title>
-            <description><![CDATA[<article><h1>Welcome to Me Wah Restaurant</h1><p>Sumptuously decorated, Me Wah Chinese Restaurant has a quality of food, wine and service that is usually only seen in the top Sydney and Melbourne Chinese establishments. With starched linen, beautiful Chinese screens, ceremonial wishing bowls and wall panels, an imposing entrance guarded by Chinese lions and a plush takeaway section, this Sandy Bay eatery is highly recommended, thus contact us now and experience the wonders of Me Wah!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92b3f48e1626c4f717c976acd97b3cf57bb91c8f.png"></article>]]></description>
-            <link>http://www.mewah.com.au/</link>
-            <guid isPermaLink="false">77ffd756-3c0c-47b0-8bd7-bba3d459ba65</guid>
-            <pubDate>Wed, 09 Mar 2016 11:41:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
