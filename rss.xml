@@ -4,7 +4,7 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 13:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 13:17:30 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ET]]></title>
@@ -19,6 +19,13 @@
             <link>http://d1g1tal.agency/digital-agency/for-business/get-more-customers/</link>
             <guid isPermaLink="false">7f246d82-26b1-42a2-ba7e-765305dc1beb</guid>
             <pubDate>Wed, 09 Mar 2016 13:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pennicott Wilderness Journeys]]></title>
+            <description><![CDATA[<article><h1>Pennicott Wilderness Journeys</h1><p>Pennicott Wilderness Journeys operates cruises and day tours from Hobart, Tasmania. Tour with Robert Pennicott's award winning team in the yellow boats.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15e2337da31c0941b0fb3af3f8ba3bdb3ac45c5b.jpg"></article>]]></description>
+            <link>https://www.pennicottjourneys.com.au/</link>
+            <guid isPermaLink="false">be9790a4-b32d-4b64-853b-32db9fd4de4c</guid>
+            <pubDate>Wed, 09 Mar 2016 13:16:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[University of Tasmania, Australia | World-class study, research, and lifestyle]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Contemporary Art Tasmania</h1><p>A Salamanca Arts Centre exhibition toured by Contemporary Tasmania</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69b0d8183feff31f52aa0a21b93332487d493987.jpg"></article>]]></description>
             <link>http://www.contemporaryarttasmania.org/</link>
             <guid isPermaLink="false">0d9711d2-a847-4a01-a350-62cd54fae375</guid>
-            <pubDate>Wed, 09 Mar 2016 12:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>Engage in TRA projects and programs. TRA projects have recently covered the fields of cultural tourism, social enterprise, contemporary dance, youth portraiture and social media skills development for regional senior artists and TRA members.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d79163f29e9b771b5c897c22bef6d1b82a7db7d.jpg"></article>]]></description>
-            <link>http://www.tasregionalarts.org.au/</link>
-            <guid isPermaLink="false">5644e938-dd22-4add-bf39-f4d4b2faa0a3</guid>
             <pubDate>Wed, 09 Mar 2016 12:50:30 GMT</pubDate>
         </item>
     </channel>
