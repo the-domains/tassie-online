@@ -4,8 +4,15 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 12:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 12:19:16 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Programs]]></title>
+            <description><![CDATA[<article><h1>Programs</h1><p>Salamanca Arts Centre offer many opportunities for artists and curators to exhibit within several Access Galleries, each with it's own priorities and focus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/202036360c348c0dcb019beb0206dcb10e003a84.jpg"></article>]]></description>
+            <link>https://www.salarts.org.au/portfolio/programs/</link>
+            <guid isPermaLink="false">800fc568-43bb-4fcd-93fa-7b8a386f436c</guid>
+            <pubDate>Wed, 09 Mar 2016 12:18:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tasmanian Landscapes: A Different Perspective]]></title>
             <description><![CDATA[<article><h1>Tasmanian Landscapes: A Different Perspective</h1><p>A collection of well known Tasmanian landscapes taken from a different perspective, by SAC Studio Artist Hannah Blackmore . "I am very much inspired by the beautiful Tasmanian landscape, and enjoy using the colours as a starting point from which I add my own particular style.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc6a13671f0b1daeecc049cbe48b859e3cc8c4cb.gif"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.matthewevans.net.au/what/events</link>
             <guid isPermaLink="false">2d3c7f11-ef92-4431-975b-30392e17b471</guid>
             <pubDate>Wed, 09 Mar 2016 12:15:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet Lounge | lunch]]></title>
-            <description><![CDATA[<article><h1>Red Velvet Lounge | lunch</h1><p>Superior Tasmanian Country Cafe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78949031587be560d15936577d906a58a257aadd.jpg"></article>]]></description>
-            <link>http://www.redvelvetlounge.com.au/#!lunch/zvsj5</link>
-            <guid isPermaLink="false">640e228f-4b8e-4058-9bfc-97fe678c8239</guid>
-            <pubDate>Wed, 09 Mar 2016 12:15:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
