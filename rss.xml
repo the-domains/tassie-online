@@ -4,7 +4,7 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 13:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 13:18:28 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ET]]></title>
@@ -19,6 +19,13 @@
             <link>http://d1g1tal.agency/digital-agency/for-business/get-more-customers/</link>
             <guid isPermaLink="false">7f246d82-26b1-42a2-ba7e-765305dc1beb</guid>
             <pubDate>Wed, 09 Mar 2016 13:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bruny Island Cruises]]></title>
+            <description><![CDATA[<article><h1>Bruny Island Cruises</h1><p>Bruny Island Cruises provides award-winning wilderness cruises in Robert Pennicott's yellow boats. Day tours to Bruny Island available from Hobart, Tasmania.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6f8877095d3d2a678247ad2a57f2ba36074355d.jpg"></article>]]></description>
+            <link>https://www.brunycruises.com.au/</link>
+            <guid isPermaLink="false">6941a085-8f47-4432-abed-03f34de48c8c</guid>
+            <pubDate>Wed, 09 Mar 2016 13:16:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Get $27 AUD off your first adventure!]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Tasmanian Museum and Art Gallery</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2392a879ce6b66fa05d8a2d85227481953c0edb9.png"></article>]]></description>
             <link>http://www.tmag.tas.gov.au/</link>
             <guid isPermaLink="false">e2adba0d-7ef3-483c-acf7-2912f9175edb</guid>
-            <pubDate>Wed, 09 Mar 2016 12:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ten Days on the Island - Tasmania's Arts Festival]]></title>
-            <description><![CDATA[<article><h1>Ten Days on the Island - Tasmania's Arts Festival</h1><p>Ten Days on the Island is the festival that inspired them all - Australia's only statewide international arts festival and Tasmania's premier cultural event</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68d168b503dd66a5ef8931a2c480c83b3fb72c1f.jpg"></article>]]></description>
-            <link>http://www.tendays.org.au/</link>
-            <guid isPermaLink="false">c43bc6c3-55b4-497c-91c9-4a5ce755fd5d</guid>
             <pubDate>Wed, 09 Mar 2016 12:50:30 GMT</pubDate>
         </item>
     </channel>
