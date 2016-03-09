@@ -4,7 +4,7 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 13:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 13:17:57 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ET]]></title>
@@ -19,6 +19,13 @@
             <link>http://d1g1tal.agency/digital-agency/for-business/get-more-customers/</link>
             <guid isPermaLink="false">7f246d82-26b1-42a2-ba7e-765305dc1beb</guid>
             <pubDate>Wed, 09 Mar 2016 13:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Get $27 AUD off your first adventure!]]></title>
+            <description><![CDATA[<article><h1>Get $27 AUD off your first adventure!</h1><p>Join Adrian on Airbnb and find over one million unique places to stay anywhere in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a306e89eca0b7106a79acea62e53fa165bab6c1.png"></article>]]></description>
+            <link>https://www.airbnb.com.au/c/adrianw172?s=8</link>
+            <guid isPermaLink="false">151fa93d-b8f4-4d9b-9b9a-69d8a8abd35f</guid>
+            <pubDate>Wed, 09 Mar 2016 13:16:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pennicott Wilderness Journeys]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Ten Days on the Island - Tasmania's Arts Festival</h1><p>Ten Days on the Island is the festival that inspired them all - Australia's only statewide international arts festival and Tasmania's premier cultural event</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68d168b503dd66a5ef8931a2c480c83b3fb72c1f.jpg"></article>]]></description>
             <link>http://www.tendays.org.au/</link>
             <guid isPermaLink="false">c43bc6c3-55b4-497c-91c9-4a5ce755fd5d</guid>
-            <pubDate>Wed, 09 Mar 2016 12:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contemporary Art Tasmania]]></title>
-            <description><![CDATA[<article><h1>Contemporary Art Tasmania</h1><p>A Salamanca Arts Centre exhibition toured by Contemporary Tasmania</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69b0d8183feff31f52aa0a21b93332487d493987.jpg"></article>]]></description>
-            <link>http://www.contemporaryarttasmania.org/</link>
-            <guid isPermaLink="false">0d9711d2-a847-4a01-a350-62cd54fae375</guid>
             <pubDate>Wed, 09 Mar 2016 12:50:30 GMT</pubDate>
         </item>
     </channel>
