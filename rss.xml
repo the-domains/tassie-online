@@ -4,8 +4,15 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 11:48:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 12:16:27 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Wilderness Society]]></title>
+            <description><![CDATA[<article><h1>The Wilderness Society</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afa08a505e24478fe2e0c7405adf2cdaa3a5e9bf.jpg"></article>]]></description>
+            <link>https://www.wilderness.org.au/</link>
+            <guid isPermaLink="false">b3deb2a9-5d51-403c-bdfb-d0a790119c27</guid>
+            <pubDate>Wed, 09 Mar 2016 12:14:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Oysters Barilla Bay - Barilla Bay Oysters]]></title>
             <description><![CDATA[<article><h1>Oysters Barilla Bay - Barilla Bay Oysters</h1><p>Want fresh oysters in Barilla Bay? Call Barilla Bay Oysters on (03) 6248 5454.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/039e4282039538b8fb8a907e21bb141d44dc2d26.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.mewah.com.au/</link>
             <guid isPermaLink="false">77ffd756-3c0c-47b0-8bd7-bba3d459ba65</guid>
             <pubDate>Wed, 09 Mar 2016 11:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flathead Cafe |]]></title>
-            <description><![CDATA[<article><h1>Flathead Cafe |</h1><p>Featuring the best local seasonal ingredients and daily menu specials Flathead Café offers yummy breakfasts, great coffee, delicious contemporary dishes, fresh seafood, pizzas, traditional fish & chips and sweet treats.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72357c44d4e560f9e39051224292321f1ac0e708.jpg"></article>]]></description>
-            <link>http://www.flatheadcafe.com/</link>
-            <guid isPermaLink="false">72eafbf6-2800-4a26-996a-94329d98af21</guid>
-            <pubDate>Wed, 09 Mar 2016 11:41:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
