@@ -4,7 +4,7 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 11:43:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 11:43:27 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -12,13 +12,6 @@
             <link>http://tassie.online/welcome/index.html</link>
             <guid isPermaLink="false">71a4cc31-2b6a-410d-89bc-7f23f5280dbc</guid>
             <pubDate>Wed, 09 Mar 2016 11:40:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[boks :: Home]]></title>
-            <description><![CDATA[<article><h1>boks :: Home</h1><p>At the 2007 Royal Agricultural Society of Tasmania Fine Food Awards, Boks Bacon scooped the pool winning gold for both the Traditional Woodfire smoke and the Free-Range with Leatherwood Honey bacons. We also won trophies for Best Smallgoods Manufacturer Tasmania and Best Smallgoods Manufacturer Australia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c344d8710b893de7875abb443a121dbebf6422a.jpg"></article>]]></description>
-            <link>http://boksbacon.com.au/</link>
-            <guid isPermaLink="false">b43c4289-379e-4de9-879d-860a107963b5</guid>
-            <pubDate>Wed, 09 Mar 2016 11:42:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wursthaus Kitchen - Gourmet Deli - Hobart, Tasmania]]></title>
@@ -75,6 +68,13 @@
             <link>http://www.homehillwines.com.au/home</link>
             <guid isPermaLink="false">31776caa-cb36-46c6-9c93-babced83143e</guid>
             <pubDate>Wed, 09 Mar 2016 11:40:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[William Smiths & Sons]]></title>
+            <description><![CDATA[<article><h1>William Smiths & Sons</h1><p>The largest organic apple orchard in Australia and the makers of both Willie Smiths Organic Apple cider and Stonehouse Craft Cider. Located in Huon, Tasmania.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8f6a1136092c07793247b31bcec023c21ebb228.png"></article>]]></description>
+            <link>http://www.williesmiths.com.au/</link>
+            <guid isPermaLink="false">a242c527-0398-47de-94b2-1a97f5c64eeb</guid>
+            <pubDate>Wed, 09 Mar 2016 11:41:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
