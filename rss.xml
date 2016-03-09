@@ -4,7 +4,7 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 13:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 13:29:59 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ET]]></title>
@@ -19,6 +19,13 @@
             <link>http://d1g1tal.agency/digital-agency/for-business/get-more-customers/</link>
             <guid isPermaLink="false">7f246d82-26b1-42a2-ba7e-765305dc1beb</guid>
             <pubDate>Wed, 09 Mar 2016 13:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farm Gate Market]]></title>
+            <description><![CDATA[<article><h1>Farm Gate Market</h1><p>Every Sunday, come rain hail or shine, a busy street in the heart of Hobart transforms into a bustling farmers' market. It's all about Tasmanian produce and getting to know your farmer, and it always has been.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff7640bd91ecf4fd94da3d32d1a8713475660e6b.jpg"></article>]]></description>
+            <link>http://farmgatemarket.com.au/</link>
+            <guid isPermaLink="false">e953a574-947f-4876-8f68-e2d4fdf06bfe</guid>
+            <pubDate>Wed, 09 Mar 2016 13:28:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bruny Island Cruises]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Arts Tasmania</h1><p>The Tasmanian Arts Guide is the go-to guide for visitors and locals looking for top creative places to go and things to do in the arts across Tasmania.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/602fb4ca15d6a6901e563cd1c39ebc8c5a448ade.jpg"></article>]]></description>
             <link>http://www.arts.tas.gov.au/</link>
             <guid isPermaLink="false">3eee3e39-957b-4849-889e-a54bae14eb31</guid>
-            <pubDate>Wed, 09 Mar 2016 12:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tasmanian Museum and Art Gallery]]></title>
-            <description><![CDATA[<article><h1>Tasmanian Museum and Art Gallery</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2392a879ce6b66fa05d8a2d85227481953c0edb9.png"></article>]]></description>
-            <link>http://www.tmag.tas.gov.au/</link>
-            <guid isPermaLink="false">e2adba0d-7ef3-483c-acf7-2912f9175edb</guid>
             <pubDate>Wed, 09 Mar 2016 12:50:30 GMT</pubDate>
         </item>
     </channel>
