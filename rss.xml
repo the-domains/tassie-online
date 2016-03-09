@@ -4,15 +4,8 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 12:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 12:18:11 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Highland Herbs Tasmania | Certified Organic Herbal Teas]]></title>
-            <description><![CDATA[<article><h1>Highland Herbs Tasmania | Certified Organic Herbal Teas</h1><p>Shop powered by PrestaShop</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/172ff724782b4716d46e090729fd6673234fb074.jpg"></article>]]></description>
-            <link>http://highlandherbs.com.au/</link>
-            <guid isPermaLink="false">0cc74df1-116a-49be-ae8a-128789a1e532</guid>
-            <pubDate>Wed, 09 Mar 2016 12:17:10 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Forest Hill Farm - Tasmanian organic produce - Home]]></title>
             <description><![CDATA[<article><h1>Forest Hill Farm - Tasmanian organic produce - Home</h1><p>Forest Hill Farm, organic produce in Tasmania, NASSA certified, potatos, beetroot , pumpkins, carrots, onions, sheep and cattle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb8bde5d702fd794179e4f8ed22c93fcf7c71ed8.png"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.wilderness.org.au/</link>
             <guid isPermaLink="false">b3deb2a9-5d51-403c-bdfb-d0a790119c27</guid>
             <pubDate>Wed, 09 Mar 2016 12:14:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oysters Barilla Bay - Barilla Bay Oysters]]></title>
+            <description><![CDATA[<article><h1>Oysters Barilla Bay - Barilla Bay Oysters</h1><p>Want fresh oysters in Barilla Bay? Call Barilla Bay Oysters on (03) 6248 5454.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/039e4282039538b8fb8a907e21bb141d44dc2d26.jpg"></article>]]></description>
+            <link>http://www.barillabay.com.au/</link>
+            <guid isPermaLink="false">15f86c50-3307-44c6-874b-c532ee5e5d2a</guid>
+            <pubDate>Wed, 09 Mar 2016 11:48:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
