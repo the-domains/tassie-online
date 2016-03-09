@@ -4,8 +4,29 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 12:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 12:52:31 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arts Tasmania]]></title>
+            <description><![CDATA[<article><h1>Arts Tasmania</h1><p>The Tasmanian Arts Guide is the go-to guide for visitors and locals looking for top creative places to go and things to do in the arts across Tasmania.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/602fb4ca15d6a6901e563cd1c39ebc8c5a448ade.jpg"></article>]]></description>
+            <link>http://www.arts.tas.gov.au/</link>
+            <guid isPermaLink="false">3eee3e39-957b-4849-889e-a54bae14eb31</guid>
+            <pubDate>Wed, 09 Mar 2016 12:50:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tasmanian Museum and Art Gallery]]></title>
+            <description><![CDATA[<article><h1>Tasmanian Museum and Art Gallery</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2392a879ce6b66fa05d8a2d85227481953c0edb9.png"></article>]]></description>
+            <link>http://www.tmag.tas.gov.au/</link>
+            <guid isPermaLink="false">e2adba0d-7ef3-483c-acf7-2912f9175edb</guid>
+            <pubDate>Wed, 09 Mar 2016 12:50:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ten Days on the Island - Tasmania's Arts Festival]]></title>
+            <description><![CDATA[<article><h1>Ten Days on the Island - Tasmania's Arts Festival</h1><p>Ten Days on the Island is the festival that inspired them all - Australia's only statewide international arts festival and Tasmania's premier cultural event</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68d168b503dd66a5ef8931a2c480c83b3fb72c1f.jpg"></article>]]></description>
+            <link>http://www.tendays.org.au/</link>
+            <guid isPermaLink="false">c43bc6c3-55b4-497c-91c9-4a5ce755fd5d</guid>
+            <pubDate>Wed, 09 Mar 2016 12:50:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contemporary Art Tasmania]]></title>
             <description><![CDATA[<article><h1>Contemporary Art Tasmania</h1><p>A Salamanca Arts Centre exhibition toured by Contemporary Tasmania</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69b0d8183feff31f52aa0a21b93332487d493987.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://www.mona.net.au/</link>
             <guid isPermaLink="false">1b205269-6860-4cbc-9d2e-7ccd080a657c</guid>
             <pubDate>Wed, 09 Mar 2016 12:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>Grant Medwin is a glass jeweller based in Hobart, Tasmania.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7062914b02e7975982413b5bd627ec834fef3a9.jpg"></article>]]></description>
-            <link>http://www.grantmedwin.com/</link>
-            <guid isPermaLink="false">b93520c7-96ff-4da6-82a3-a55e3ff7f9ca</guid>
-            <pubDate>Wed, 09 Mar 2016 12:18:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Salamanca Arts Centre]]></title>
-            <description><![CDATA[<article><h1>Salamanca Arts Centre</h1><p>Discover an immense annual program of performance, visual art, educational and development programs here at the Centre and touring nationally. View Get involved through an internship, volunteer, professional development or realise a project with our grant auspicing. View The heritage buildings are home to over 13 different art spaces and venues for exhibition, performance, meetings and hire.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c95f40b74aebb3a5c0a5471f82c02e3bf886e9d.jpg"></article>]]></description>
-            <link>https://www.salarts.org.au/</link>
-            <guid isPermaLink="false">6d2915d7-de95-4285-91d7-73f9799f5db5</guid>
-            <pubDate>Wed, 09 Mar 2016 12:18:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gipsy Empire - Home]]></title>
-            <description><![CDATA[<article><h1>Gipsy Empire - Home</h1><p>Designer silver jewellery handmade in Tasmania that draws on inspiration from romanticised gypsy culture and ancient empires.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a425d178bac9f0f93f0baaa21df9d0ea67be6290.jpg"></article>]]></description>
-            <link>http://www.gipsyempire.com.au/</link>
-            <guid isPermaLink="false">8ef35eb2-eead-4be7-8837-56df37291adc</guid>
-            <pubDate>Wed, 09 Mar 2016 12:18:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
