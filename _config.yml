@@ -1,6 +1,6 @@
 name: tassie.online
 favicon: null
-layout_spectrum: 0.24314
+layout_spectrum: 0.37926
 typography_spectrum: 0.16048
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0
-  lightness: 0.375
+    - '#000100'
+    - '#fdfdfd'
+    - '#403927'
+    - '#dad0d9'
+    - '#93888e'
+  brandStrength: 0.0625
+  lightness: 0.625
   saturation: 0.125
   rhythmicContrast: 0.75
 purpose: []
