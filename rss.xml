@@ -4,7 +4,7 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 22:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 22:48:46 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ET]]></title>
@@ -19,6 +19,13 @@
             <link>http://d1g1tal.agency/digital-agency/for-business/get-more-customers/</link>
             <guid isPermaLink="false">7f246d82-26b1-42a2-ba7e-765305dc1beb</guid>
             <pubDate>Wed, 09 Mar 2016 13:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oceans and Atmosphere]]></title>
+            <description><![CDATA[<article><h1>Oceans and Atmosphere</h1><p>Providing knowledge to manage Australia's marine areas and atmospheric environment. Assessing our climate Providing the ocean and atmospheric science needed for a sustainable, healthy, and well-prepared Australia as part of a global effort focused on climate, energy and air quality interactions, and climate, carbon and water feedbacks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a2d3ee1adc0f9bf01906f6ec2faf2652a7ea27f.jpg"></article>]]></description>
+            <link>http://www.csiro.au/en/Research/OandA</link>
+            <guid isPermaLink="false">0bb259d3-c90c-46d0-a053-3b028b11638b</guid>
+            <pubDate>Wed, 09 Mar 2016 22:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greenbees]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.pennicottjourneys.com.au/</link>
             <guid isPermaLink="false">be9790a4-b32d-4b64-853b-32db9fd4de4c</guid>
             <pubDate>Wed, 09 Mar 2016 13:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[University of Tasmania, Australia | World-class study, research, and lifestyle]]></title>
-            <description><![CDATA[<article><h1>University of Tasmania, Australia | World-class study, research, and lifestyle</h1><p>The University of Tasmania (UTAS), located in Australia, is one of Australia's leading universities. This website has a wide range of comprehensive information about the University, courses offered, its activities, aims and objectives</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3ca88b95be85de0a5eff5b8da72cbfc1d688075.png"></article>]]></description>
-            <link>http://www.utas.edu.au/</link>
-            <guid isPermaLink="false">9b5bf1f3-44ae-4266-86d8-b821ca5b09e9</guid>
-            <pubDate>Wed, 09 Mar 2016 12:51:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
