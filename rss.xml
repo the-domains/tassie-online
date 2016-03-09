@@ -4,15 +4,8 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 12:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 12:16:51 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Events | Matthew Evans]]></title>
-            <description><![CDATA[<article><h1>Events | Matthew Evans</h1><p>CONTENTS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d1f97d00fd3afba5388974a73d5267c4dd813b8.jpg"></article>]]></description>
-            <link>http://www.matthewevans.net.au/what/events</link>
-            <guid isPermaLink="false">2d3c7f11-ef92-4431-975b-30392e17b471</guid>
-            <pubDate>Wed, 09 Mar 2016 12:15:31 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Red Velvet Lounge | lunch]]></title>
             <description><![CDATA[<article><h1>Red Velvet Lounge | lunch</h1><p>Superior Tasmanian Country Cafe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78949031587be560d15936577d906a58a257aadd.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.lostpippin.com.au/</link>
             <guid isPermaLink="false">c043ee59-8fb4-4cb2-9955-4be93fa820c4</guid>
             <pubDate>Wed, 09 Mar 2016 11:41:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HOME]]></title>
+            <description><![CDATA[<article><h1>HOME</h1><p>Spreyton Cider Co's traditional ciders are made using the time honoured cider making techniques of England and France, and as you might expect at 7.5 - 8% ABV they pack a punch in more ways than one! These flavour packed ciders are fermented in the bottle to produce lightly carbonated ciders reminiscent in appearance to fine champagne.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d420f52863fa5db598f81ab8110720432d2e41f.png"></article>]]></description>
+            <link>http://www.spreytonciderco.com.au/index.php/home/</link>
+            <guid isPermaLink="false">e46e4686-75a8-4927-932e-6a1203e1a54d</guid>
+            <pubDate>Wed, 09 Mar 2016 11:41:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
