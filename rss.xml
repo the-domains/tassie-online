@@ -4,7 +4,7 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 22:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 22:48:54 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ET]]></title>
@@ -19,6 +19,13 @@
             <link>http://d1g1tal.agency/digital-agency/for-business/get-more-customers/</link>
             <guid isPermaLink="false">7f246d82-26b1-42a2-ba7e-765305dc1beb</guid>
             <pubDate>Wed, 09 Mar 2016 13:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australian Antarctic Division - Australia in Antarctica]]></title>
+            <description><![CDATA[<article><h1>Australian Antarctic Division - Australia in Antarctica</h1><p>Cool Australian Antarctic Division news about scientific research, stations (bases), expeditioners, wildlife, ships, the environment and jobs in Antarctica.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6766741ea638597c2cd993a6df5fd19678d646ae.png"></article>]]></description>
+            <link>http://www.antarctica.gov.au/</link>
+            <guid isPermaLink="false">87fa1b2c-3c6f-4fe8-b74d-e5fa789c0de3</guid>
+            <pubDate>Wed, 09 Mar 2016 22:48:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Oceans and Atmosphere]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Get $27 AUD off your first adventure!</h1><p>Join Adrian on Airbnb and find over one million unique places to stay anywhere in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a306e89eca0b7106a79acea62e53fa165bab6c1.png"></article>]]></description>
             <link>https://www.airbnb.com.au/c/adrianw172?s=8</link>
             <guid isPermaLink="false">151fa93d-b8f4-4d9b-9b9a-69d8a8abd35f</guid>
-            <pubDate>Wed, 09 Mar 2016 13:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pennicott Wilderness Journeys]]></title>
-            <description><![CDATA[<article><h1>Pennicott Wilderness Journeys</h1><p>Pennicott Wilderness Journeys operates cruises and day tours from Hobart, Tasmania. Tour with Robert Pennicott's award winning team in the yellow boats.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15e2337da31c0941b0fb3af3f8ba3bdb3ac45c5b.jpg"></article>]]></description>
-            <link>https://www.pennicottjourneys.com.au/</link>
-            <guid isPermaLink="false">be9790a4-b32d-4b64-853b-32db9fd4de4c</guid>
             <pubDate>Wed, 09 Mar 2016 13:16:51 GMT</pubDate>
         </item>
     </channel>
