@@ -4,7 +4,7 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 23:36:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 23:37:47 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ET]]></title>
@@ -19,6 +19,13 @@
             <link>http://d1g1tal.agency/digital-agency/for-business/get-more-customers/</link>
             <guid isPermaLink="false">7f246d82-26b1-42a2-ba7e-765305dc1beb</guid>
             <pubDate>Wed, 09 Mar 2016 13:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About The Taste Of Tasmania]]></title>
+            <description><![CDATA[<article><h1>About The Taste Of Tasmania</h1><p>About the taste of Tasmania Tasmania's most popular and enduring summer event, The Taste of Tasmania, returns to Hobart's waterfront from 28 December - 3 January 2016, and it's free to enter. The majestic River Derwent, Hobart's historic wharves and Salamanca Place provide a stunning backdrop to this annual celebration of quality Tasmanian produce.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acd4877e047c069f26398b212715d451274eb125.png"></article>]]></description>
+            <link>http://www.thetasteoftasmania.com.au/about-the-taste-of-tasmania/</link>
+            <guid isPermaLink="false">b76ea679-5035-45fa-b328-3cef2806f464</guid>
+            <pubDate>Wed, 09 Mar 2016 23:36:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tarkine in Motion 2016]]></title>
@@ -68,13 +75,6 @@
             <link>https://apps.google.com/intx/en_au/landing/partners/referral/trial.html?utm_source=sign-up&amp;utm_medium=referral&amp;utm_campaign=apps-referral-program&amp;utm_content=3RVGJNJ</link>
             <guid isPermaLink="false">f221c251-3c03-49cf-a3f4-7de744b075cf</guid>
             <pubDate>Wed, 09 Mar 2016 21:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farm Gate Market]]></title>
-            <description><![CDATA[<article><h1>Farm Gate Market</h1><p>Every Sunday, come rain hail or shine, a busy street in the heart of Hobart transforms into a bustling farmers' market. It's all about Tasmanian produce and getting to know your farmer, and it always has been.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff7640bd91ecf4fd94da3d32d1a8713475660e6b.jpg"></article>]]></description>
-            <link>http://farmgatemarket.com.au/</link>
-            <guid isPermaLink="false">e953a574-947f-4876-8f68-e2d4fdf06bfe</guid>
-            <pubDate>Wed, 09 Mar 2016 13:28:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
