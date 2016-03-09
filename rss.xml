@@ -4,7 +4,7 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 11:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 11:43:05 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -12,6 +12,13 @@
             <link>http://tassie.online/welcome/index.html</link>
             <guid isPermaLink="false">71a4cc31-2b6a-410d-89bc-7f23f5280dbc</guid>
             <pubDate>Wed, 09 Mar 2016 11:40:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pagan Cider | Tasmania Australia]]></title>
+            <description><![CDATA[<article><h1>Pagan Cider | Tasmania Australia</h1><p>Wholesale orders Email: Orders@pagancider.com.au Phone/text: 0448 882 948 Visit our cellar door 7891 Channel Highway, Cradoc, Tasmania Pure wizardry With its long apple-growing history and abundance of glorious fruit, Tasmania is the natural home of Pagan Cider. Blessed with clean air, rich alluvial soil, chilled foggy winters and long hours of summer sunshine, Tasmania's idyllic Huon Valley is an apple-growing heaven.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6148c273edeb0839afe380315cc7e8e05d6668d8.jpg"></article>]]></description>
+            <link>http://www.pagancider.com.au/</link>
+            <guid isPermaLink="false">a27fb151-7b10-4419-8dd3-f78d9406bf9c</guid>
+            <pubDate>Wed, 09 Mar 2016 11:42:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lost Pippin :: Home]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.homehillwines.com.au/about</link>
             <guid isPermaLink="false">33fd5ca9-2f6a-47e2-b64e-5827b23fddb9</guid>
             <pubDate>Wed, 09 Mar 2016 11:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethos]]></title>
-            <description><![CDATA[<article><h1>Ethos</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/406743dd71f91a99b41d15b4e23e2b3ff8deafa3.png"></article>]]></description>
-            <link>http://ethoseatdrink.com/</link>
-            <guid isPermaLink="false">2d01e09f-9ef9-419c-a4c3-20731f8ce29a</guid>
-            <pubDate>Wed, 09 Mar 2016 11:40:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
