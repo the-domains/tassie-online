@@ -4,15 +4,8 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 12:51:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 12:51:30 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>Engage in TRA projects and programs. TRA projects have recently covered the fields of cultural tourism, social enterprise, contemporary dance, youth portraiture and social media skills development for regional senior artists and TRA members.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d79163f29e9b771b5c897c22bef6d1b82a7db7d.jpg"></article>]]></description>
-            <link>http://www.tasregionalarts.org.au/</link>
-            <guid isPermaLink="false">5644e938-dd22-4add-bf39-f4d4b2faa0a3</guid>
-            <pubDate>Wed, 09 Mar 2016 12:50:30 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Art Society Of Tasmania]]></title>
             <description><![CDATA[<article><h1>Art Society Of Tasmania</h1><p>The Art Society of Tasmania was formed in 1884 and has a proud and active history. Many Australian artists of note such as Arthur Streeton, W.C. Piguenit, Blamire Young and Edith Holmes have exhibited with the Society. The Society exhibits artworks by members and feature artists at their home base - the Lady Franklin Gallery, located in Ancanthe Park, Lenah Valley.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d100dbd16af3c43ffdf143a690c08afdfa86e242.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Programs</h1><p>Salamanca Arts Centre offer many opportunities for artists and curators to exhibit within several Access Galleries, each with it's own priorities and focus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/202036360c348c0dcb019beb0206dcb10e003a84.jpg"></article>]]></description>
             <link>https://www.salarts.org.au/portfolio/programs/</link>
             <guid isPermaLink="false">800fc568-43bb-4fcd-93fa-7b8a386f436c</guid>
+            <pubDate>Wed, 09 Mar 2016 12:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tasmanian Landscapes: A Different Perspective]]></title>
+            <description><![CDATA[<article><h1>Tasmanian Landscapes: A Different Perspective</h1><p>A collection of well known Tasmanian landscapes taken from a different perspective, by SAC Studio Artist Hannah Blackmore . "I am very much inspired by the beautiful Tasmanian landscape, and enjoy using the colours as a starting point from which I add my own particular style.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc6a13671f0b1daeecc049cbe48b859e3cc8c4cb.gif"></article>]]></description>
+            <link>https://www.salarts.org.au/event/tasmanian-landscapes/</link>
+            <guid isPermaLink="false">d06999af-5060-42d3-96a0-a757d1f82d82</guid>
             <pubDate>Wed, 09 Mar 2016 12:18:47 GMT</pubDate>
         </item>
     </channel>
