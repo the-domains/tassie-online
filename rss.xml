@@ -4,8 +4,22 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 12:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 12:25:13 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MONA]]></title>
+            <description><![CDATA[<article><h1>MONA</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5d5b014deec3f601f8107b1b530600569331b0c.jpg"></article>]]></description>
+            <link>http://www.mona.net.au/</link>
+            <guid isPermaLink="false">1b205269-6860-4cbc-9d2e-7ccd080a657c</guid>
+            <pubDate>Wed, 09 Mar 2016 12:24:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Grant Medwin is a glass jeweller based in Hobart, Tasmania.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7062914b02e7975982413b5bd627ec834fef3a9.jpg"></article>]]></description>
+            <link>http://www.grantmedwin.com/</link>
+            <guid isPermaLink="false">b93520c7-96ff-4da6-82a3-a55e3ff7f9ca</guid>
+            <pubDate>Wed, 09 Mar 2016 12:18:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Salamanca Arts Centre]]></title>
             <description><![CDATA[<article><h1>Salamanca Arts Centre</h1><p>Discover an immense annual program of performance, visual art, educational and development programs here at the Centre and touring nationally. View Get involved through an internship, volunteer, professional development or realise a project with our grant auspicing. View The heritage buildings are home to over 13 different art spaces and venues for exhibition, performance, meetings and hire.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c95f40b74aebb3a5c0a5471f82c02e3bf886e9d.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.elgaarfarm.com.au/</link>
             <guid isPermaLink="false">9dfc97f4-3938-438f-98d0-1959a9007c86</guid>
             <pubDate>Wed, 09 Mar 2016 12:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bruny Island Cheese :: home]]></title>
-            <description><![CDATA[<article><h1>Bruny Island Cheese :: home</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5ed3907a878628e63db1c47136e01fd25a5d654.png"></article>]]></description>
-            <link>http://www.brunyislandcheese.com.au/</link>
-            <guid isPermaLink="false">23678609-a027-4a9c-93f9-96dc567afe9c</guid>
-            <pubDate>Wed, 09 Mar 2016 12:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Agrarian Kitchen Cooking Classes]]></title>
-            <description><![CDATA[<article><h1>The Agrarian Kitchen Cooking Classes</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8529fb87910637612e140e144a344607e02de96e.jpg"></article>]]></description>
-            <link>http://www.theagrariankitchen.com/The_Agrarian_Kitchen/The_Agrarian_Kitchen_Cooking_Classes.html</link>
-            <guid isPermaLink="false">a31c8602-0073-4595-9880-daae6b3a52e2</guid>
-            <pubDate>Wed, 09 Mar 2016 12:15:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
