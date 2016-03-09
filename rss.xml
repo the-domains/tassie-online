@@ -4,8 +4,29 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 12:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 12:19:38 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Grant Medwin is a glass jeweller based in Hobart, Tasmania.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7062914b02e7975982413b5bd627ec834fef3a9.jpg"></article>]]></description>
+            <link>http://www.grantmedwin.com/</link>
+            <guid isPermaLink="false">b93520c7-96ff-4da6-82a3-a55e3ff7f9ca</guid>
+            <pubDate>Wed, 09 Mar 2016 12:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Salamanca Arts Centre]]></title>
+            <description><![CDATA[<article><h1>Salamanca Arts Centre</h1><p>Discover an immense annual program of performance, visual art, educational and development programs here at the Centre and touring nationally. View Get involved through an internship, volunteer, professional development or realise a project with our grant auspicing. View The heritage buildings are home to over 13 different art spaces and venues for exhibition, performance, meetings and hire.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c95f40b74aebb3a5c0a5471f82c02e3bf886e9d.jpg"></article>]]></description>
+            <link>https://www.salarts.org.au/</link>
+            <guid isPermaLink="false">6d2915d7-de95-4285-91d7-73f9799f5db5</guid>
+            <pubDate>Wed, 09 Mar 2016 12:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gipsy Empire - Home]]></title>
+            <description><![CDATA[<article><h1>Gipsy Empire - Home</h1><p>Designer silver jewellery handmade in Tasmania that draws on inspiration from romanticised gypsy culture and ancient empires.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a425d178bac9f0f93f0baaa21df9d0ea67be6290.jpg"></article>]]></description>
+            <link>http://www.gipsyempire.com.au/</link>
+            <guid isPermaLink="false">8ef35eb2-eead-4be7-8837-56df37291adc</guid>
+            <pubDate>Wed, 09 Mar 2016 12:18:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Programs]]></title>
             <description><![CDATA[<article><h1>Programs</h1><p>Salamanca Arts Centre offer many opportunities for artists and curators to exhibit within several Access Galleries, each with it's own priorities and focus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/202036360c348c0dcb019beb0206dcb10e003a84.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://www.brunyislandcheese.com.au/</link>
             <guid isPermaLink="false">23678609-a027-4a9c-93f9-96dc567afe9c</guid>
             <pubDate>Wed, 09 Mar 2016 12:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Agrarian Kitchen Cooking Classes]]></title>
-            <description><![CDATA[<article><h1>The Agrarian Kitchen Cooking Classes</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8529fb87910637612e140e144a344607e02de96e.jpg"></article>]]></description>
-            <link>http://www.theagrariankitchen.com/The_Agrarian_Kitchen/The_Agrarian_Kitchen_Cooking_Classes.html</link>
-            <guid isPermaLink="false">a31c8602-0073-4595-9880-daae6b3a52e2</guid>
-            <pubDate>Wed, 09 Mar 2016 12:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet Lounge | breakfast]]></title>
-            <description><![CDATA[<article><h1>Red Velvet Lounge | breakfast</h1><p>Superior Tasmanian Country Cafe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78949031587be560d15936577d906a58a257aadd.jpg"></article>]]></description>
-            <link>http://www.redvelvetlounge.com.au/#!breakfast/clb2i</link>
-            <guid isPermaLink="false">40c1a33c-391f-48c7-85bf-83dd3911835a</guid>
-            <pubDate>Wed, 09 Mar 2016 12:15:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Events | Matthew Evans]]></title>
-            <description><![CDATA[<article><h1>Events | Matthew Evans</h1><p>CONTENTS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d1f97d00fd3afba5388974a73d5267c4dd813b8.jpg"></article>]]></description>
-            <link>http://www.matthewevans.net.au/what/events</link>
-            <guid isPermaLink="false">2d3c7f11-ef92-4431-975b-30392e17b471</guid>
-            <pubDate>Wed, 09 Mar 2016 12:15:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
