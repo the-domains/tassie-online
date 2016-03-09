@@ -4,8 +4,15 @@
         <description><![CDATA[tassie.online]]></description>
         <link>http://tassie.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 13:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 13:08:58 GMT</lastBuildDate>
         <atom:link href="http://tassie.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ET]]></title>
+            <description><![CDATA[<article><h1>ET</h1><p>Tasmania is like nowhere else on earth. But it is in grave danger from years of excessive logging, mining and over-fishing. Join our community to stop this destruction and connect with giant underwater kelp forests, majestic wedge-tailed eagles, pristine beaches and World Heritage listed rainforests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8be854e639807e2152917dd91df9dade180b7e45.jpg"></article>]]></description>
+            <link>http://www.et.org.au/</link>
+            <guid isPermaLink="false">d3581c64-06d5-48e4-a24f-ebfbd831e671</guid>
+            <pubDate>Wed, 09 Mar 2016 13:08:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tasmania, Meet customers in the moments that matter. - Digital Agency]]></title>
             <description><![CDATA[<article><h1>Tasmania, Meet customers in the moments that matter. - Digital Agency</h1><p>As a Google Partner, Digital Agency can help you connect with customers in the moments that matter - don't make them seek you out through the grapevine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce80a0c4f2335ed13f4a071c3ff8a0d1787b6db3.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.tasregionalarts.org.au/</link>
             <guid isPermaLink="false">5644e938-dd22-4add-bf39-f4d4b2faa0a3</guid>
             <pubDate>Wed, 09 Mar 2016 12:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Art Society Of Tasmania]]></title>
-            <description><![CDATA[<article><h1>Art Society Of Tasmania</h1><p>The Art Society of Tasmania was formed in 1884 and has a proud and active history. Many Australian artists of note such as Arthur Streeton, W.C. Piguenit, Blamire Young and Edith Holmes have exhibited with the Society. The Society exhibits artworks by members and feature artists at their home base - the Lady Franklin Gallery, located in Ancanthe Park, Lenah Valley.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d100dbd16af3c43ffdf143a690c08afdfa86e242.jpg"></article>]]></description>
-            <link>http://artstas.com.au/</link>
-            <guid isPermaLink="false">840ee241-b4cc-40fa-8a18-ef2891cfe57a</guid>
-            <pubDate>Wed, 09 Mar 2016 12:49:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
