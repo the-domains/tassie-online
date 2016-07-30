@@ -1,19 +1,4 @@
-name: tassie.online
-favicon: null
-layout_spectrum: 0.37926
 typography_spectrum: 0.16048
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-59862159-8
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000100'
@@ -25,4 +10,21 @@ color:
   lightness: 0.625
   saturation: 0.125
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.37926
+analytics:
+  google: UA-59862159-8
+  facebook: null
+  twitter: null
+author:
+  url: ''
+name: tassie.online
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
